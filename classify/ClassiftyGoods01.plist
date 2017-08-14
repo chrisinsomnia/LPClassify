@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image_url</key>
+		<string>http://img13.gomein.net.cn/image/prodimg/gicon/cat10000049.png</string>
+		<key>price</key>
+		<string>$123</string>
+		<key>title</key>
+		<string>大家电</string>
+	</dict>
+	<dict>
+		<key>image_url</key>
+		<string>http://img10.gomein.net.cn/image/prodimg/gicon/cat10000070.png</string>
+		<key>price</key>
+		<string>$23</string>
+		<key>title</key>
+		<string>数码通讯</string>
+	</dict>
+	<dict>
+		<key>image_url</key>
+		<string>http://img14.gomein.net.cn/image/prodimg/promotion_image/promoImg/201504/20150430/cat10000230x.png</string>
+		<key>price</key>
+		<string>$56</string>
+		<key>title</key>
+		<string>厨卫生活</string>
+	</dict>
+	<dict>
+		<key>image_url</key>
+		<string>http://img13.gomein.net.cn/image/prodimg/gicon/cat10005460.png</string>
+		<key>price</key>
+		<string>$98</string>
+		<key>title</key>
+		<string>日用百货</string>
+	</dict>
+	<dict>
+		<key>image_url</key>
+		<string>http://img14.gomein.net.cn/image/prodimg/promotion_image/promoImg/201504/20150407/nike_6.png</string>
+		<key>price</key>
+		<string>$786</string>
+		<key>title</key>
+		<string>耐克</string>
+	</dict>
+</array>
+</plist>
